@@ -1,15 +1,15 @@
 # Proyecto Grupo 12
- El proyecto del grupo 12 de el curso Ciencia de Datos en la Pontificia Universidad Catolica
+El proyecto del grupo 12 del curso Ciencia de Datos en la Pontificia Universidad Católica
 
 # Integrantes
 - Victor Alonso Marques
-- Matias Valenzuela
-- Benjamin Ojeda Sandoval
-- Nicolas Rodrigo Benavides
+- Matías Valenzuela
+- Benjamín Ojeda Sandoval
+- Nicolás Rodrigo Benavides
 
 # Acceso
 A el grupo tienen acceso:
-1. Los integrantes.
+1. Los integrantes
 2. Ayudantes
 3. El profesor
 
@@ -17,4 +17,4 @@ A el grupo tienen acceso:
 Subida en canvas, futuramente en el repositorio.
 
 # Contenidos
-Hay una carpeta, "demo Victor", donde yo, Victor Marques, hice unas cosas para hacer web-scraping, y implemente la API de MyAnimeList, no hay muchas cosas todavia.
+Hay una carpeta, "demo Victor", donde yo, Víctor Marques, hice unas cosas para hacer web-scraping, e implementé la API de MyAnimeList. No hay muchas cosas todavía.
