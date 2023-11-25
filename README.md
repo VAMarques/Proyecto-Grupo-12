@@ -27,5 +27,3 @@ Además, se crearon las siguientes carpetas:
 - `fonts`: Contiene las fuentes que se utilizaron en el proyecto.
 - `raw`: Contiene los archivos crudos que se descargaron de internet, usando `requests`.
 - `Ayuda Externa`: Contiene los archivos adicionales que se utilizaron para el proyecto.
-
-  
